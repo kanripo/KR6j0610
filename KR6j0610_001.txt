@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:14.654701
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:37
 #+TITLE: 幻師颰陀神呪經
 #+PROPERTY: CBETA_ID T21n1378b
 #+PROPERTY: ID KR6j0610
